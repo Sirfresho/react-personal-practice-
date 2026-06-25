@@ -1,7 +1,9 @@
 import React from 'react'
 
 const App = () => {
-  return 
+  return (
+    <div>My First React Project</div>
+  )
 }
 
 export default App
